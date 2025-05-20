@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://joaopedrodevl.github.io/](https://joaopedrodevl.github.io/)
 
-- 💬 Ask me about **C++,Python, JavaScript and Arduino**
+- 💬 Ask me about **C++,Python, JavaScript and Java**
 
 - 📫 How to reach me **jpedro.dev@proton.me**
 
