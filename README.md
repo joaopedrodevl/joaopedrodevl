@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jpedro.dev@proton.me**
 
-- 📄 Know about my experiences During the first semester of my undergraduate studies in Computer Engineering, I developed a bot (currently in use) for the course's Discord server, originally in Python but now running in TypeScript. I also created a frontend and backend integration with the Santander CNPJ API for generating Pix, including QR Code and payment confirmation, which is currently in production running in two Docker containers—one with a Python backend and the other with an Apache server to run the frontend in native JavaScript, allowing access on computers, tablets, and mobile devices.
+- 📄 Know about my experiences During the first semester of my undergraduate studies in Computer Engineering, I developed a bot (currently in use) for the course's Discord server, originally in Python but now running in TypeScript.
 
 - ⚡ Fun fact **I have the hobby of racing in virtual car simulators.**
 
